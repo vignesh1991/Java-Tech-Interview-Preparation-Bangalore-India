@@ -1,0 +1,7 @@
+Explain internal working of HashMap in java
+  HashMap works on the basis of hashing technique, hashing is process of converting other data types to int values. The int value 
+  is in turn used to map the location in which the data can be stored. 
+  - In java hash function is used to convert any data type to int, if you are not implementing your own hashfunction, then the
+  default implementation defined in the object class is used. this method in object class is native method which means its writtern
+  in other language and compiled and stored in native method area, in memoery. 
+  - there is an contract between hashcode and equals method in java, which 
