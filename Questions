@@ -1,2 +1,15 @@
 Explain internal working of HashMap in java
-
+comparable and compareTO methods in java and how to use it for sorting
+why and when to use thread pool 
+Exception handling try,catch, throw, throws, finally - Explain
+different types of sorting - merge sort, quick sort, bucket sort ..when to use which type of sorting. 
+Oops concept and explanation
+java strings, why they are immutable 
+hashcode and equals method, their default implementation and its contract
+java garbage collector and different types of garbage collector
+java memory model and types of memory
+java collections - hashmap, arraylist, vecor, linkedlist,hashset
+serilalization deserialization externalisation 
+serialversion UId and what is that
+multithreading 
+Design pattern - code for atleast --singleton, factory, design .. all others just on postion to explain and draw diagram
